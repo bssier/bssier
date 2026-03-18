@@ -1,4 +1,4 @@
-## Hi there! My name is Michael. I'm Frontend  Developer Igor Vihorkov fan and from tripl k👋
+## Hi there! My name is Michael. I'm Frontend  Developer👋
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExang3bXZpaXY1d2thNHA3YzFndHJ5MWczbmFxNTh3bzZycXdleDRjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
