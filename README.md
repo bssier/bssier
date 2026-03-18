@@ -33,6 +33,10 @@
    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </div>
 
+### Codewars
+
+![Codewars](https://github.r2v.ch/codewars?user=rsschool_35e44d3a2998fc54&stroke=%23#0F0F0F)
+
 ### My stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bssier&theme=dark&background=000000)](https://git.io/streak-stats)
